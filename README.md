@@ -32,6 +32,8 @@ ejercicio del curso de   gitgithub
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 experimento
+experimento 2
+
 maestro 1
 master2
 * [Next.js](https://nextjs.org/)
