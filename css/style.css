@@ -21,6 +21,12 @@ body{
     width: 20px;
     vertical-align: middle;
 }
+
+#imgcode #imgmeme
+{
+    width:600px;
+    vertical-align: middle;
+}
 #cabecera #tagline{
     padding: 0 0 0 1em;
     font-weight: normal;
