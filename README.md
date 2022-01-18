@@ -36,6 +36,7 @@ experimento 2
 
 maestro 1
 master2
+* incluye  ejemplos en  windows  linux y mac
 * Creado por  EDWIN MAURICIO GALLEGO BROWN
 * [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
